@@ -1,4 +1,7 @@
 # Lychrel-numbers
 Some programs for searching palindrome and Lychrel numbers
-#SECRET URL
-https://jeka.by/post/1053/github-send-PR-to-other-repository/
+
+TODO
+
+1. Add Python scripts with graph
+2. Add C# version with graph
